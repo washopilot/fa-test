@@ -1,0 +1,19 @@
+/* custom styling for all icons */
+/* i.fas,
+i.fab {
+  border: 1px solid red;
+} */
+
+/* custom styling for specific icons */
+.fa-fish {
+  color: salmon;
+}
+.fa-frog {
+  color: green;
+}
+.fa-user-ninja.vanished {
+  opacity: 0;
+}
+.fa-facebook {
+  color: rgb(59, 91, 152);
+}
